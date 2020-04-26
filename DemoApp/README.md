@@ -20,7 +20,7 @@
 	</code>
 </pre>
 
-![ironMan image]("https://images.hdqwalls.com/download/4k-new-ironman-kv-2160x3840.jpg" "extra text")
+![ironMan image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "extra text")
 
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
