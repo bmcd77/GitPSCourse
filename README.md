@@ -3,7 +3,7 @@
 
 ## Examples
 
-We have several examples [on the website](https://reactjs.org/). Here is the first one to get you started:
+We have several examples [on the React website](https://reactjs.org/). Here is the first one to get you started:
 
 ```jsx
 function HelloMessage({ name }) {
