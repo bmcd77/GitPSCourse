@@ -18,3 +18,16 @@ ReactDOM.render(
 
 This example will render "Hello Taylor" into a container on the page.
 
+### Blockquotes:
+
+> "Lord, to whom shall we go? 
+> **You** have the words of eternal life. We believe .."
+
+### Inline code:
+
+*Italics - I think you should use an*
+*`<xml tag>` element here instead.*
+
+~~strikethrough~~
+
+See Issue #1 :smile:
