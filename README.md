@@ -21,7 +21,7 @@ This example will render "Hello Taylor" into a container on the page.
 ### Blockquotes:
 
 > "Lord, to whom shall we go? 
-> **You** have the words of eternal life. We believe .."
+> **You** have the words of eternal life. We believe and know .."
 
 ### Inline code:
 
