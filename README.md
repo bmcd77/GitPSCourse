@@ -19,9 +19,14 @@ ReactDOM.render(
 
 This example will render "Hello Taylor" into a container on the page.
 
-<<<<<<< HEAD
+
+=======
+
 ### Blockquotes:
 
+
+### Blockquotes:
+ 
 > "Lord, to whom shall we go? 
 > **You** have the words of eternal life. We believe and know .."
 
@@ -33,9 +38,9 @@ This example will render "Hello Taylor" into a container on the page.
 ~~strikethrough~~
 
 See Issue Title mis-aligned https://github.com/bmcd77/GitPSCourse/issues/1 :smile:
-=======
 ---
 
 
->>>>>>> 419ec9ce0ceaa849bcb686b28fe5be66f02415df
+
+
 
