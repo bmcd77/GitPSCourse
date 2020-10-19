@@ -1,4 +1,5 @@
-# [Hello World](https://reactjs.org/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bmcd77/GitPSCourse/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bmcd77/GitPSCourse/blob/master/LICENSE)
+# [Hello World](https://reactjs.org/) 
 
 
 ## Examples
