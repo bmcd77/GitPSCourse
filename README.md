@@ -30,4 +30,5 @@ This example will render "Hello Taylor" into a container on the page.
 
 ~~strikethrough~~
 
-See Issue Title mis-aligned #1 :smile:
+See Issue Title mis-aligned https://github.com/bmcd77/GitPSCourse/issues/1 :smile:
+
